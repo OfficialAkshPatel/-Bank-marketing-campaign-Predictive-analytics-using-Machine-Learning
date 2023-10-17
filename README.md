@@ -1,0 +1,2 @@
+# -Bank-marketing-campaign-Predictive-analytics-using-Machine-Learning
+This project harnesses predictive analytics in the banking sector, using customer data and advanced techniques to build a model for effective marketing campaigns. By identifying potential customers, predicting behavior, and tailoring strategies, banks can optimize resources, personalize offers, and enhance customer satisfaction.
